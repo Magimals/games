@@ -1,0 +1,19 @@
+{
+  "name": "magimals-games",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "dependencies": {
+    "nuxt": "^4.5.2",
+    "pug": "^3.0.4",
+    "sass": "^1.104.0",
+    "vue": "^3.5.42",
+    "vue-router": "^5.3.0"
+  }
+}

@@ -1,2 +1,17 @@
-# games
-Magimals Games official website: host and source code for Magimals games.
+# Magimals Games
+🫵🏻This is a Nuxt project
+
+This repository holds source code for Magimals games.
+## Branches
+- `main`: all the code is stored here
+- Any others: probably a PR.
+## Made With
+![Nuxt](https://img.shields.io/badge/nuxt-000000?style=for-the-badge&logo=nuxt&logoColor=22FFFF)
+![TypeScript](https://img.shields.io/badge/typescript-FFFFFF?style=for-the-badge&logo=typescript&logoColor=blue)
+![Sass](https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-FFFF00?style=for-the-badge&logo=javascript&logoColor=black)
+![Pug](https://img.shields.io/badge/pug_(but_only_in_the_past)-AA7722?style=for-the-badge&logo=pug&logoColor=white)
+![CSS](https://img.shields.io/badge/css-FFFFFF?style=for-the-badge&logo=CSS&logoColor=purple)
+## Shoutout
+Shoutout to [Lemon](https://github.com/ahoylemon) for the Hex'd background on his
+[BG2COOL website](https://ahoylemon.github.io/BG2COOL).
